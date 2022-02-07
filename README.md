@@ -1,4 +1,4 @@
-The idea for this project came W2AEW's video on YouTube. For an upcoming workshop for the OSU Electronics Club on "intro to hobby electronics" I decided it would be fun to be able to display our club logo on an oscilloscope. 
+The idea for this project came W2AEW's video on YouTube (linked below). For an upcoming workshop for the OSU Electronics Club on "intro to hobby electronics" I decided it would be fun to be able to display our club logo on an oscilloscope. 
 
 Overall the project was simple. Use this logo:
 
